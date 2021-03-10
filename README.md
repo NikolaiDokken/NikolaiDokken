@@ -7,6 +7,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikolaidokken.nikolaidokken)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolaiDokken&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiDokken&layout=compact&card_width=445)
 
 ## 🛠 Technologies and tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
