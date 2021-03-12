@@ -5,7 +5,7 @@
 
 ## 📈 Github stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikolaidokken.nikolaidokken)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikolaiDokken&show_icons=true&theme=dracula&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikolaiDokken&show_icons=true&theme=dracula&hide=issues&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiDokken&layout=compact&theme=dracula" />
