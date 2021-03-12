@@ -4,10 +4,12 @@
 - 🌱 I’m currently learning GraphQL and React Native
 
 ## 📈 Github stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikolaidokken.nikolaidokken)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolaiDokken&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiDokken&layout=compact&card_width=445)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikolaiDokken&show_icons=true&theme=dracula&card_width=350" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiDokken&layout=compact&card_width=350&card_height=100&theme=dracula" />
+</a>
 <!--
 **NikolaiDokken/NikolaiDokken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
