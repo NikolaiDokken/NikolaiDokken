@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikolaiDokken&show_icons=true&theme=dracula&card_width=350" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiDokken&layout=compact&card_width=350&card_height=100&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiDokken&layout=compact&theme=dracula" />
 </a>
 <!--
 **NikolaiDokken/NikolaiDokken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
