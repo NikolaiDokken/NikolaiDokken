@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Nikolai
 
-- 🔭 I’m currently writing my bachelor thesis
-- 🌱 I’m currently learning GraphQL and React Native
+- 🔭 I’m currently studying computer science
+- 🌱 I’m feeling the need, the need to code stuff
 
 ## 📈 Github stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikolaidokken.nikolaidokken)
 <a href="https://github.com/anuraghazra/github-readme-stats">
